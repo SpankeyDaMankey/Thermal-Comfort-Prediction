@@ -1,1 +1,5 @@
+Thermal Sensation dataset
+
+The final project consists of a simple classification task using a "Thermal Comfort" dataset from https://github.com/CenterForTheBuiltEnvironment/ashrae-db-II. Given some measurements of a subject's environment and personal characteristics, the task is to predict the subject's perceived thermal comfort as measured from a scale of -3 to 3, where -3 is the coldest and 3 is the hottest.
+
 Just run the code sequentially
